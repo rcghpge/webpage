@@ -23,7 +23,7 @@ Influenced and inspired by a fellow Maverick and **Dimension theme by HTML5 UP**
 2. Clone your fork to your local machine:
    ```bash
    git clone https://github.com/rcghpge/web-page-template.git 
-   cd web-page-template # See GitHub docs and online sources for CLI workflows @ the command line.
+   cd web-page-template # See Git docs, GitHub docs, and online sources for CLI workflows @ the command line.
    ```
 ### Customize
 1. Open **`index.html`**:
