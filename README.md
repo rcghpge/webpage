@@ -106,5 +106,4 @@ If you’re a web developer with insights for optimizing this repository, or if 
 
 ---
 
-Start creating your professional website today—whether you're a student, a professional, or someone looking to expand their network, this template has you covered. 🚀
-
+Write your own story, this template has you covered. 🚀
