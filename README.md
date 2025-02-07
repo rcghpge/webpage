@@ -101,7 +101,7 @@ This project is derived from **Dimension by HTML5 UP**:
 
 If you’re a web developer with insights for optimizing this repository, or if you have ideas for improvement, feel free to reach out. Your feedback is valued, and collaboration is always welcome.
 
-- LinkedIn: [Robert Cocker](https://www.linkedin.com/in/robertcocker)
+- LinkedIn: [link](https://www.linkedin.com/in/robertcocker)
 - Email: [link](mailto:academia@robertcocker.com)
 
 ---
