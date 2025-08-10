@@ -1714,9 +1714,9 @@ v				}
       content: '';
       position: absolute;
       left: 0;
-      bottom: -2px; /* Glow just below the text */
+      bottom: -3px; /* Glow just below the text */
       width: 100%;
-      height: 2px; /* Glow thickness */
+      height: 10px; /* Glow thickness */
       background-color: #00ff00; /* Bright green glow color */
       /* Increased glow radius for a higher/brighter effect */
       box-shadow:
