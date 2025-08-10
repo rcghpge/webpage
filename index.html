@@ -166,14 +166,19 @@
               <p>
                 &copy; 
                 <a href="https://youtu.be/dQw4w9WgXcQ?si=EQdIrn1Fo67qRcui" 
-                    class="lightsaber-link" id="year">
-                  {{ "now" | date: "%Y" }}
+                   class="lightsaber-link" id="year">
+                  2024-{{ "now" | date: "%Y" }}
                 </a> 
                 Robert Cocker
               </p>
             </footer>
             <script>
-              document.getElementById('year').textContent = new Date().getFullYear();
+              const startYear = 2024;
+              const currentYear = new Date().getFullYear();
+              const yearEl = document.getElementById('year');
+              yearEl.textContent = startYear === currentYear 
+                ? startYear 
+                : `${startYear}-${currentYear}`;
             </script>
         </div>
 
@@ -188,5 +193,6 @@
         <script src="assets/js/main.js"></script>
     </body>
 </html>
+
 
 
