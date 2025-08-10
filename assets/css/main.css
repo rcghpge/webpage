@@ -1722,8 +1722,8 @@ v				}
       box-shadow:
         0 0 12px #00ff00,
         0 0 24px #00ff00,
-        0 0 48px #00ff00,
-        0 0 72px #00ff00;
+        0 0 96px #00ff00,
+        0 0 144px #00ff00;
       opacity: 0; /* Hidden until hover */
       transition:
         opacity 1.5s ease,
