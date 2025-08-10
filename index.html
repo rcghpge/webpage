@@ -54,6 +54,17 @@
         --accent: #ff4d4d;
         --accent-contrast: #0b0b0b;
       }
+      
+      /* Override accent color for light mode */
+      :root {
+        --accent: var(--muted); /* links match muted text color */
+      }
+
+      /* Override accent color for dark mode */
+      :root[data-theme="dark"] {
+        --accent: var(--muted); /* links match muted text color */
+      }
+
 
       /* Global theme application */
       body { background: var(--bg); color: var(--text); }
@@ -216,3 +227,4 @@
     </script>
   </body>
 </html>
+
