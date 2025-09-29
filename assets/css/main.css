@@ -1674,7 +1674,8 @@ v				}
 		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
 		width: 100%;
 		max-width: 100%;
-		margin-top: 2rem;
+		margin-top: auto; /* auto|2rem */
+		padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); /* test/comment out/delete */
 		text-align: center;
 	}
     
