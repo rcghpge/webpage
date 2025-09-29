@@ -25,8 +25,8 @@ This is my webpage repository turned template for web page design. It is a wip a
 1. Fork this repository to create your own copy on GitHub.
 2. Clone your fork to your local machine:
    ```bash
-   git clone https://github.com/rcghpge/webpage-template.git 
-   cd webpage-template # See Git docs, GitHub docs, and online sources for CLI workflows @ the command line.
+   git clone https://github.com/rcghpge/webpage.git 
+   cd webpage # See Git docs, GitHub docs, and online sources for CLI workflows @ the command line.
    ```
 ### Customize
 1. Open **`index.html`**:
