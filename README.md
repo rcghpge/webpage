@@ -1,6 +1,6 @@
 # Webpage Template 💻
 
-This repository offers a modern and responsive single-page website template designed to help you showcase your skills, achievements, and aspirations. Whether you’re a college student preparing for your first job or a working professional advancing your career, this template is here to support you in building connections and expanding your professional network.
+Webpage setup for templating. A wip. Looking to redesign.
 
 HTML5 Up has other webpage templates if you are an advanced programmer in webpage design - [link](https://html5up.net)
 
@@ -8,7 +8,7 @@ HTML5 Up has other webpage templates if you are an advanced programmer in webpag
 
 ## About the Template
 
-Influenced and inspired by a fellow Maverick and **Dimension theme by HTML5 UP**, this template provides a customizable design that’s ideal for creating a strong online presence. Use it to highlight your academic background, projects, career milestones, and more—tailored to your unique journey.
+This is my webpage repository turned template for web page design. It is a wip and setup for web development in open source.
 
 ### Features 
 - Responsive design for mobile, laptop, tablet, and desktop.
@@ -85,7 +85,7 @@ This template is suitable for:
 
 This project is derived from **Dimension by HTML5 UP**:
 - **Original Creator**: [HTML5 UP](https://html5up.net)
-- **A fellow Maverick**: [Jacob Devasier @ GitHub](https://github.com/JDevasier)
+- **Jacob Devasier**: [GitHub](https://github.com/JDevasier)
 - **License**: CC by 4.0 (updated CC), Creative Commons Attribution 3.0 ([View License](https://html5up.net/license))
 
 ### Additional Resources
@@ -98,14 +98,3 @@ This project is derived from **Dimension by HTML5 UP**:
   - [Git Docs](https://git-scm.com/doc)
 
 ---
-
-## Feedback
-
-If you’re a web developer with insights for optimizing this repository, or if you have ideas for improvement, feel free to reach out. Your feedback is valued, and collaboration is always welcome.
-
-- LinkedIn: [link](https://www.linkedin.com/in/robertcocker)
-- Email: [link](mailto:academia@robertcocker.com)
-
----
-
-Write your own story, this template has you covered. 🚀
